@@ -1,0 +1,5 @@
+# Breast Cancer Prediction using Gene Expressions
+
+In this project, we are going to have a brief and elementary hands-on real-world project, predicting breast cancer survival using machine learning models with clinical data and gene expression profiles.
+
+For this purpose, we will use "Breast Cancer Gene Expression Profiles (METABRIC)" data. The dataset consists of multiple columns, with the first 31 columns containing clinical information such as age, tumor size, and lymph node status. The subsequent columns of the data contain gene-related information which includes both gene expressions and mutation details. The gene mutation information columns have been labeled with "_mut" at the end of their column names. For more information, please refer to the [data documentation](https://www.kaggle.com/datasets/raghadalharbi/breast-cancer-gene-expression-profiles-metabric).
